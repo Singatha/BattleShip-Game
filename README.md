@@ -1,9 +1,9 @@
 # BattleShip Game
 
 - Download the zip file or clone the repo
-- Install python on the command if you don't have it on your machine.
-  - **_pip install python_**
-- Install PyQt5 for python graphical interfaces
+- Download python if you don't have it on your machine and set it up on your terminal.
+  - (https://www.python.org/)
+- Install PyQt5 for python GUI using the terminal
   - **_pip install pyqt5_**
 - Running the code on the one machine
   - open three terminals
